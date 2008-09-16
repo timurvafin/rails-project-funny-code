@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/trunk/vendor/plugins/rspec/lib/spec/mocks
+END
+spec_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/vendor/plugins/rspec/lib/spec/mocks/spec_methods.rb
+END
+error_generator.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/vendor/plugins/rspec/lib/spec/mocks/error_generator.rb
+END
+proxy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/vendor/plugins/rspec/lib/spec/mocks/proxy.rb
+END
+methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/vendor/plugins/rspec/lib/spec/mocks/methods.rb
+END
+argument_expectation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4/trunk/vendor/plugins/rspec/lib/spec/mocks/argument_expectation.rb
+END
+message_expectation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/4/trunk/vendor/plugins/rspec/lib/spec/mocks/message_expectation.rb
+END
+order_group.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/vendor/plugins/rspec/lib/spec/mocks/order_group.rb
+END
+mock.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/4/trunk/vendor/plugins/rspec/lib/spec/mocks/mock.rb
+END
+space.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/4/trunk/vendor/plugins/rspec/lib/spec/mocks/space.rb
+END
+errors.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4/trunk/vendor/plugins/rspec/lib/spec/mocks/errors.rb
+END
+argument_constraint_matchers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/4/trunk/vendor/plugins/rspec/lib/spec/mocks/argument_constraint_matchers.rb
+END

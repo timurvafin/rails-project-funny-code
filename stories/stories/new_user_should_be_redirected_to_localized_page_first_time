@@ -1,0 +1,13 @@
+Story: We should redirect users from front page to localized pages
+
+
+    Scenario: open an index page first time
+        Given empty cookie
+        And empty accept language
+
+        When I open / page
+
+        Then site should redirects to /en page
+
+
+    

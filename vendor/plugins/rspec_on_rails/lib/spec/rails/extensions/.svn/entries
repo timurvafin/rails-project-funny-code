@@ -1,0 +1,53 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/vendor/plugins/rspec_on_rails/lib/spec/rails/extensions
+http://funny-code.googlecode.com/svn
+
+
+
+2007-11-27T20:38:02.261012Z
+5
+timurv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+action_controller
+dir
+
+action_view
+dir
+
+object.rb
+file
+
+
+
+
+2008-09-16T15:09:04.000000Z
+0ccfcfc8784c2ad1b081d06a88c65be5
+2007-11-27T20:38:02.261012Z
+5
+timurv
+has-props
+
+active_record
+dir
+
+spec
+dir
+

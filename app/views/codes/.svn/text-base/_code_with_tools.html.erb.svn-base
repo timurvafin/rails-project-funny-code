@@ -1,0 +1,20 @@
+<div id="<%= dom_id(code_with_tools, view_type)%>" class="column span-24 last">
+    <pre><code><%=h code_with_tools.code %></code></pre>
+    from <%=h code_with_tools.source %>
+
+    <div class="column append-2">
+        
+        <% if code_with_tools.rankable?(session) %>
+            <%= link_to_code_rank_up(code_with_tools, view_type) %>
+        <% end %>
+    
+        <strong>&nbsp;<%=h code_with_tools.rank %>&nbsp;</strong>
+
+        <% if code_with_tools.rankable?(session) %>
+            <%= link_to_code_rank_down(code_with_tools, view_type) %>
+        <% end %>
+
+        <%= link_to_code_comments(code_with_tools) %>
+
+    </div>
+</div>

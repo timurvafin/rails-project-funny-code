@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/2/trunk/spec/helpers
+END
+comments_helper_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/spec/helpers/comments_helper_spec.rb
+END
+index_helper_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/spec/helpers/index_helper_spec.rb
+END
+codes_helper_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/spec/helpers/codes_helper_spec.rb
+END
+ranks_helper_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/spec/helpers/ranks_helper_spec.rb
+END
+application_helper_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/spec/helpers/application_helper_spec.rb
+END

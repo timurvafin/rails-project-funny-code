@@ -1,0 +1,83 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/vendor/plugins/will_paginate
+http://funny-code.googlecode.com/svn
+
+
+
+2007-12-10T11:08:25.814152Z
+18
+timurv
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2008-09-16T15:08:53.000000Z
+0afa0b67a01c14ec993a10ad939bbccf
+2007-11-27T20:47:49.112738Z
+7
+timurv
+
+LICENSE
+file
+
+
+
+
+2008-09-16T15:08:53.000000Z
+4f07f0b985927be06dcc54950ba5a1b9
+2007-11-27T20:47:49.112738Z
+7
+timurv
+
+init.rb
+file
+
+
+
+
+2008-09-16T15:08:53.000000Z
+810cf9dd892dd12e3f144dda8577ef05
+2007-11-27T20:47:49.112738Z
+7
+timurv
+has-props
+
+lib
+dir
+
+README
+file
+
+
+
+
+2008-09-16T15:08:53.000000Z
+db27538d81b86dd3fb2662e9cda3d73e
+2007-11-27T20:47:49.112738Z
+7
+timurv
+

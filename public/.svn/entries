@@ -1,0 +1,89 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/public
+http://funny-code.googlecode.com/svn
+
+
+
+2007-11-28T14:47:45.482607Z
+14
+timurv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+images
+dir
+
+robots.txt
+file
+
+
+
+
+2008-09-16T15:11:19.000000Z
+a9d8217ec04c304aba7926ae1f066973
+2007-11-27T20:05:10.770640Z
+2
+timurv
+has-props
+
+500.html
+file
+
+
+
+
+2008-09-16T15:11:19.000000Z
+8e19fd3c53aec78af1087378d5367833
+2007-11-27T20:05:10.770640Z
+2
+timurv
+has-props
+
+javascripts
+dir
+
+404.html
+file
+
+
+
+
+2008-09-16T15:11:19.000000Z
+adc851c2e0698b5d05ef0380ed69f6b9
+2007-11-27T20:05:10.770640Z
+2
+timurv
+has-props
+
+stylesheets
+dir
+
+favicon.ico
+file
+
+
+
+
+2008-09-16T15:11:19.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2007-11-27T20:05:10.770640Z
+2
+timurv
+has-props
+

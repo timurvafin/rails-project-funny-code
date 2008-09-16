@@ -1,0 +1,44 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/vendor/plugins/has_finder
+http://funny-code.googlecode.com/svn
+
+
+
+2007-12-10T11:08:25.814152Z
+18
+timurv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+init.rb
+file
+
+
+
+
+2008-09-16T15:09:10.000000Z
+9ef69eef5f46620281e500efd925ca39
+2007-11-28T16:28:27.268865Z
+16
+timurv
+has-props
+
+lib
+dir
+

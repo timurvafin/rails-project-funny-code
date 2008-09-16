@@ -1,0 +1,54 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/vendor/plugins/active_project/spec/ruby_ext/time
+http://funny-code.googlecode.com/svn
+
+
+
+2007-11-27T20:58:32.231014Z
+9
+timurv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+conversions_spec.rb
+file
+
+
+
+
+2008-09-16T15:08:55.000000Z
+86df2f0cb452c01aecc52da6f573dc7f
+2007-11-27T20:58:32.231014Z
+9
+timurv
+has-props
+
+freeze_spec.rb
+file
+
+
+
+
+2008-09-16T15:08:55.000000Z
+e8a83132105ea595c32320c38c48a28f
+2007-11-27T20:58:32.231014Z
+9
+timurv
+has-props
+

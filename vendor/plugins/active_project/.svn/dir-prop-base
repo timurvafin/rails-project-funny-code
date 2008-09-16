@@ -1,0 +1,17 @@
+K 21
+piston:local-revision
+V 2
+17
+K 22
+piston:remote-revision
+V 4
+8479
+K 11
+piston:root
+V 76
+svn://svn.toa/tatsoft/www/active_project/trunk/vendor/plugins/active_project
+K 11
+piston:uuid
+V 36
+9621c536-1d00-0410-b19d-a015b11cd21f
+END

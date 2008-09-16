@@ -1,0 +1,99 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/config
+http://funny-code.googlecode.com/svn
+
+
+
+2007-11-28T16:28:27.268865Z
+16
+timurv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+routes.rb
+file
+
+
+
+
+2008-09-16T15:08:49.000000Z
+aa024005fbeefb2422024f96258d2eca
+2007-11-28T16:28:27.268865Z
+16
+timurv
+has-props
+
+database.yml
+file
+
+
+
+
+2008-09-16T15:08:49.000000Z
+ffa1213f34cda8b9ec7c010a19c1deac
+2007-11-27T20:05:10.770640Z
+2
+timurv
+has-props
+
+boot.rb
+file
+
+
+
+
+2008-09-16T15:08:49.000000Z
+f7b5a2a3651a4956ca41bbb697870912
+2007-11-27T20:05:10.770640Z
+2
+timurv
+has-props
+
+initializers
+dir
+
+environment.rb
+file
+
+
+
+
+2008-09-16T15:08:49.000000Z
+1e4f12fb285b151d94456932251fac9a
+2007-11-27T20:05:10.770640Z
+2
+timurv
+has-props
+
+memcached.yml
+file
+
+
+
+
+2008-09-16T15:08:49.000000Z
+d078b636db21e716ac84633554306104
+2007-11-27T20:05:10.770640Z
+2
+timurv
+has-props
+
+environments
+dir
+

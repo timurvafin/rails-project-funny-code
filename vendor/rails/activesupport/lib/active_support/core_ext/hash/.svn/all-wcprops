@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/19/trunk/vendor/rails/activesupport/lib/active_support/core_ext/hash
+END
+indifferent_access.rb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/19/trunk/vendor/rails/activesupport/lib/active_support/core_ext/hash/indifferent_access.rb
+END
+slice.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/11/trunk/vendor/rails/activesupport/lib/active_support/core_ext/hash/slice.rb
+END
+conversions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/19/trunk/vendor/rails/activesupport/lib/active_support/core_ext/hash/conversions.rb
+END
+diff.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/11/trunk/vendor/rails/activesupport/lib/active_support/core_ext/hash/diff.rb
+END
+except.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/11/trunk/vendor/rails/activesupport/lib/active_support/core_ext/hash/except.rb
+END
+reverse_merge.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/11/trunk/vendor/rails/activesupport/lib/active_support/core_ext/hash/reverse_merge.rb
+END
+keys.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/19/trunk/vendor/rails/activesupport/lib/active_support/core_ext/hash/keys.rb
+END

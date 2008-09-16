@@ -1,0 +1,41 @@
+_gloc_rule_default: '|n| n10=n%10; n100=n%100; (n10==1 && n100!=11) ? "_1" : (n10>=2 && n10<=4 && (n100<10 || n100>=20) ? "_2" : "_5") '
+
+en: English
+ru: Русский
+
+common.error_messages_for.message: Ошибочки у нас тут
+common.error_messages_for.header_message_1: Чет мы тут напортачили, %d ошибка
+common.error_messages_for.header_message_2: Чет мы тут напортачили, %d ошибки
+common.error_messages_for.header_message_5: Чет мы тут напортачили, %d ошибок
+
+common.success: Малаца! Хорошо отжег!
+common.error: Чет не то...
+
+common.app_title: Индусы жгут
+
+code.rank_up: Зачет!
+code.rank_down: Боян!
+code.add_new: Отжечь
+code.successfully_created: Малаца! Хорошо отжег!
+code.code: Коде
+code.source: От куда такое?
+code.highly_ranked_list: Зебест
+code.recent_list: Свежак
+code.submit: Отжечь!
+
+code.errors.validates_presence_of_code: Сам код вводить обязательно!
+code.errors.validates_numericality_of_rank: Рейтинг обязательно должен быть числом!
+
+code.comment_1: %d отжыг
+code.comment_2: %d отжыга
+code.comment_5: %d отжыгоф
+code.comments.add_new: Хочешь написать?
+code.comments.no_data: Никто еще не жог
+
+code.comments.name: Меня зовут
+code.comments.comment: Тут напишу
+code.comments.submit: Отжечь!
+code.comments.list: Мега камменты
+
+code.comments.errors.validates_presence_of_code_id: Нужно обязательно вводить id кода
+code.comments.errors.validates_presence_of_comment: Нужно ввести сам комментарий

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/test
+END
+sti_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/test/sti_test.rb
+END
+extensions_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/test/extensions_test.rb
+END
+helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/test/helper.rb
+END
+cache_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/test/cache_test.rb
+END
+config_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/test/config_test.rb
+END
+fragment_cache_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/test/fragment_cache_test.rb
+END
+disabled_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/test/disabled_test.rb
+END
+benchmarking_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/test/benchmarking_test.rb
+END
+local_cache_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/test/local_cache_test.rb
+END

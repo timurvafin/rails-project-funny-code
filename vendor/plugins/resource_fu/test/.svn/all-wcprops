@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9/trunk/vendor/plugins/resource_fu/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9/trunk/vendor/plugins/resource_fu/test/test_helper.rb
+END
+opaque_resource_names_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9/trunk/vendor/plugins/resource_fu/test/opaque_resource_names_test.rb
+END
+inferencing_helpers_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9/trunk/vendor/plugins/resource_fu/test/inferencing_helpers_test.rb
+END

@@ -1,0 +1,74 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/vendor/plugins/active_project
+http://funny-code.googlecode.com/svn
+
+
+
+2007-12-10T11:08:25.814152Z
+18
+timurv
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+Rakefile
+file
+
+
+
+
+2008-09-16T15:08:56.000000Z
+629bb20237e9a54a83befc22510e073f
+2007-11-27T20:58:32.231014Z
+9
+timurv
+
+tasks
+dir
+
+init.rb
+file
+
+
+
+
+2008-09-16T15:08:56.000000Z
+a1e457c3fd3056153158ab322c0257b8
+2007-11-27T20:58:32.231014Z
+9
+timurv
+has-props
+
+lib
+dir
+
+spec
+dir
+
+README
+file
+
+
+
+
+2008-09-16T15:08:56.000000Z
+2f32c6b025f88005e517211f7107291e
+2007-11-27T20:58:32.231014Z
+9
+timurv
+

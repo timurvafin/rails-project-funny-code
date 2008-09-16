@@ -1,0 +1,18 @@
+<div class="box">
+    <h2><%=l 'code.add_new' %></h2>
+    <%= render_new_code_form @code %>
+</div>
+
+<hr />
+
+<div class="box">
+    <h2><%= link_to(l('code.highly_ranked_list'), highly_ranked_codes_path) %></h2>
+    <%= render_list_of_codes @codes_highly_ranked, 'highly_ranked' %>
+</div>
+
+<hr />
+
+<div class="box">
+    <h2><%= link_to(l('code.recent_list'), recent_codes_path) %></h2>
+    <%= render_list_of_codes @codes_recent, 'recent' %>
+</div>

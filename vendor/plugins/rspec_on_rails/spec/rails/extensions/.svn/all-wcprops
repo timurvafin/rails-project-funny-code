@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5/trunk/vendor/plugins/rspec_on_rails/spec/rails/extensions
+END
+action_controller_rescue_action_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/5/trunk/vendor/plugins/rspec_on_rails/spec/rails/extensions/action_controller_rescue_action_spec.rb
+END
+active_record_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5/trunk/vendor/plugins/rspec_on_rails/spec/rails/extensions/active_record_spec.rb
+END
+action_view_base_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/5/trunk/vendor/plugins/rspec_on_rails/spec/rails/extensions/action_view_base_spec.rb
+END

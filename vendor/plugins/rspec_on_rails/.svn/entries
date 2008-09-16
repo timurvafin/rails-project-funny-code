@@ -1,0 +1,92 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/vendor/plugins/rspec_on_rails
+http://funny-code.googlecode.com/svn
+
+
+
+2007-12-10T11:08:25.814152Z
+18
+timurv
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+Rakefile
+file
+
+
+
+
+2008-09-16T15:09:10.000000Z
+739de93985df731408dc32643c5d577a
+2007-11-27T20:38:02.261012Z
+5
+timurv
+
+spec_resources
+dir
+
+tasks
+dir
+
+init.rb
+file
+
+
+
+
+2008-09-16T15:09:10.000000Z
+640f74b8156893c1bc98a2050c8589d3
+2007-11-27T20:38:02.261012Z
+5
+timurv
+has-props
+
+lib
+dir
+
+generators
+dir
+
+MIT-LICENSE
+file
+
+
+
+
+2008-09-16T15:09:10.000000Z
+313081092d4b1e5f1e1a72e356485c1a
+2007-11-27T20:38:02.261012Z
+5
+timurv
+
+spec
+dir
+
+README
+file
+
+
+
+
+2008-09-16T15:09:10.000000Z
+3b47f24078e76f6bdccd41c1d84a0264
+2007-11-27T20:38:02.261012Z
+5
+timurv
+

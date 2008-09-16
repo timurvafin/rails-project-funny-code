@@ -1,0 +1,13 @@
+<div class="cleaner"></div>
+
+<% if flash[:error].blank? %>
+    <div class="message-error" id="dynamic-errors" style="display:none"><%=l 'common.error' %></div>
+<% else %>									
+    <div class="message-error" id="dynamic-errors"><%= flash[:error] %></div>
+<% end %>
+
+<% if flash[:notice].blank? %>
+    <div class="message-success" id="dynamic-success" style="display:none"><%=l 'common.success' %></div>
+<% else %>									
+    <div class="message-success" id="dynamic-success"><%= flash[:notice] %></div>
+<% end %>

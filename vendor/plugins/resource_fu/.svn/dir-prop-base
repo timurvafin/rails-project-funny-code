@@ -1,0 +1,17 @@
+K 21
+piston:local-revision
+V 1
+8
+K 22
+piston:remote-revision
+V 2
+12
+K 11
+piston:root
+V 51
+http://svn.protocool.com/public/plugins/resource_fu
+K 11
+piston:uuid
+V 36
+53f05ecc-a62b-0410-82cc-ca94651364e2
+END

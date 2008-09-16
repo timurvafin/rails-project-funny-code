@@ -1,0 +1,37 @@
+en: English
+ru: Русский
+
+common.error_messages_for.message: There were problems with the following fields 
+common.error_messages_for.header_message: %d error prohibited
+common.error_messages_for.header_message_plural: %d errors prohibited
+
+common.success: Action has been successfully performed
+common.error: System error
+
+common.app_title: Funny code
+
+code.rank_up: Up!
+code.rank_down: Down
+code.add_new: Add
+code.successfully_created: Successfully created
+code.code: Code
+code.source: Source
+code.highly_ranked_list: Highly ranked
+code.recent_list: Recent
+code.submit: Submit
+
+code.errors.validates_presence_of_code: Code is required field
+code.errors.validates_numericality_of_rank: Rank must bee numeric
+
+code.comment: %d comment
+code.comment_plural: %d comments
+code.comments.add_new: Add new
+code.comments.no_data: No comments
+
+code.comments.name: Name
+code.comments.comment: Text
+code.comments.submit: Submit!
+code.comments.list: Comments
+
+code.comments.errors.validates_presence_of_code_id: Code is required
+code.comments.errors.validates_presence_of_comment: Comment is required

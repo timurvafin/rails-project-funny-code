@@ -1,0 +1,33 @@
+defaults: &defaults
+  adapter: mysql
+  socket: /var/lib/mysql/mysql.sock
+  encoding: utf8  
+
+defaults_developmet: &defaults_developmet
+  host: mysql.toa
+  username: prj_funny_code
+  password: CS1y%2owx
+
+defaults_production: &defaults_production
+  username: root
+  password: 
+
+development:
+  database: funny_code_dev
+  <<: *defaults
+  <<: *defaults_developmet
+
+development_caching:
+  database: funny_code_dev
+  <<: *defaults
+  <<: *defaults_developmet
+
+test:
+  database: funny_code_test
+  <<: *defaults
+  <<: *defaults_developmet
+
+production:
+  database: funny_code
+  <<: *defaults
+  <<: *defaults_production

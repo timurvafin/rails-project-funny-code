@@ -1,0 +1,57 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/vendor/rails/activeresource/lib
+http://funny-code.googlecode.com/svn
+
+
+
+2007-12-17T18:29:14.214524Z
+19
+timurv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+active_resource
+dir
+
+active_resource.rb
+file
+
+
+
+
+2008-09-16T15:09:44.000000Z
+82e297f38171c0f527cbb0de094a70af
+2007-11-27T22:20:10.769750Z
+11
+timurv
+has-props
+
+activeresource.rb
+file
+
+
+
+
+2008-09-16T15:09:44.000000Z
+d819521da29be7e8da6b823cb34db6c0
+2007-11-27T22:20:10.769750Z
+11
+timurv
+has-props
+

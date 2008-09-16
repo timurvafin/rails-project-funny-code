@@ -1,0 +1,99 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/vendor/plugins/resource_fu
+http://funny-code.googlecode.com/svn
+
+
+
+2007-11-27T20:58:32.231014Z
+9
+timurv
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+test
+dir
+
+Rakefile
+file
+
+
+
+
+2008-09-16T15:08:58.000000Z
+1c34ba76eda323251f7cca9248135700
+2007-11-27T20:58:32.231014Z
+9
+timurv
+
+tasks
+dir
+
+init.rb
+file
+
+
+
+
+2008-09-16T15:08:58.000000Z
+ab4f4366b65a79c573f3e1676190b35b
+2007-11-27T20:58:32.231014Z
+9
+timurv
+has-props
+
+lib
+dir
+
+CHANGELOG
+file
+
+
+
+
+2008-09-16T15:08:58.000000Z
+331d9c923a249989f7adf07b8c24e0d0
+2007-11-27T20:58:32.231014Z
+9
+timurv
+
+uninstall.rb
+file
+
+
+
+
+2008-09-16T15:08:58.000000Z
+2a5fc883fe7f8dfe22ced24643d59ad4
+2007-11-27T20:58:32.231014Z
+9
+timurv
+has-props
+
+README
+file
+
+
+
+
+2008-09-16T15:08:58.000000Z
+ada186c1f3dbd0de6be561594b24984c
+2007-11-27T20:58:32.231014Z
+9
+timurv
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/18/trunk/vendor/rails/railties/lib/rails
+END
+plugin.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/11/trunk/vendor/rails/railties/lib/rails/plugin.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/18/trunk/vendor/rails/railties/lib/rails/version.rb
+END

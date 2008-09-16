@@ -1,0 +1,70 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/vendor/plugins/resource_fu/test
+http://funny-code.googlecode.com/svn
+
+
+
+2007-11-27T20:58:32.231014Z
+9
+timurv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+test_helper.rb
+file
+
+
+
+
+2008-09-16T15:08:56.000000Z
+269a872f09169a17cb9c721d987530c4
+2007-11-27T20:58:32.231014Z
+9
+timurv
+has-props
+
+opaque_resource_names_test.rb
+file
+
+
+
+
+2008-09-16T15:08:56.000000Z
+e5ae2c17ea9e92275340ee466389e65a
+2007-11-27T20:58:32.231014Z
+9
+timurv
+has-props
+
+fixtures
+dir
+
+inferencing_helpers_test.rb
+file
+
+
+
+
+2008-09-16T15:08:56.000000Z
+ffe89bded160b2e60679b02ffc996694
+2007-11-27T20:58:32.231014Z
+9
+timurv
+has-props
+

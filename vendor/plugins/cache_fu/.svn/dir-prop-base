@@ -1,0 +1,17 @@
+K 21
+piston:local-revision
+V 1
+8
+K 22
+piston:remote-revision
+V 3
+419
+K 11
+piston:root
+V 41
+svn://errtheblog.com/svn/plugins/cache_fu
+K 11
+piston:uuid
+V 36
+1eaa51fe-a21a-0410-9c2e-ae7a00a434c4
+END

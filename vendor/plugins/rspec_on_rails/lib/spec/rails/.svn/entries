@@ -1,0 +1,102 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/vendor/plugins/rspec_on_rails/lib/spec/rails
+http://funny-code.googlecode.com/svn
+
+
+
+2007-12-10T11:08:25.814152Z
+18
+timurv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+extensions
+dir
+
+extensions.rb
+file
+
+
+
+
+2008-09-16T15:09:05.000000Z
+ef2fa37126cdf190d9e55b7d25eab8f0
+2007-11-27T20:38:02.261012Z
+5
+timurv
+has-props
+
+story_adapter.rb
+file
+
+
+
+
+2008-09-16T15:09:05.000000Z
+7efa694ada15a79e13986ad13b51915b
+2007-11-27T20:38:02.261012Z
+5
+timurv
+has-props
+
+matchers
+dir
+
+version.rb
+file
+
+
+
+
+2008-09-16T15:09:05.000000Z
+e0267d47dfa27ce3517d4bf370cb5bef
+2007-12-10T11:08:25.814152Z
+18
+timurv
+has-props
+
+matchers.rb
+file
+
+
+
+
+2008-09-16T15:09:05.000000Z
+5c84458a582094049300ab42c385fe65
+2007-11-27T20:38:02.261012Z
+5
+timurv
+has-props
+
+example
+dir
+
+example.rb
+file
+
+
+
+
+2008-09-16T15:09:05.000000Z
+196db332abf1c386c5b3fe57c33c8bed
+2007-12-10T11:08:25.814152Z
+18
+timurv
+has-props
+

@@ -1,0 +1,54 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/spec/views/layouts
+http://funny-code.googlecode.com/svn
+
+
+
+2007-11-27T20:05:10.770640Z
+2
+timurv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+base.html.erb_spec.rb
+file
+
+
+
+
+2008-09-16T15:08:50.000000Z
+0e884b3ad7ff33b0e42cd4b0393e9b46
+2007-11-27T20:05:10.770640Z
+2
+timurv
+has-props
+
+_messages.html.erb_spec.rb
+file
+
+
+
+
+2008-09-16T15:08:50.000000Z
+c05a17bd212086dce12d0d0882b91179
+2007-11-27T20:05:10.770640Z
+2
+timurv
+has-props
+

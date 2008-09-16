@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9/trunk/vendor/plugins/active_project/spec/ruby_ext/time
+END
+conversions_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9/trunk/vendor/plugins/active_project/spec/ruby_ext/time/conversions_spec.rb
+END
+freeze_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9/trunk/vendor/plugins/active_project/spec/ruby_ext/time/freeze_spec.rb
+END

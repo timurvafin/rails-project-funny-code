@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9/trunk/vendor/plugins/resource_fu/lib/proto_cool/resource_fu
+END
+named_route_collection_methods.rb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9/trunk/vendor/plugins/resource_fu/lib/proto_cool/resource_fu/named_route_collection_methods.rb
+END
+opaque_resource_names.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9/trunk/vendor/plugins/resource_fu/lib/proto_cool/resource_fu/opaque_resource_names.rb
+END
+method_definition.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9/trunk/vendor/plugins/resource_fu/lib/proto_cool/resource_fu/method_definition.rb
+END
+helper_delegation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9/trunk/vendor/plugins/resource_fu/lib/proto_cool/resource_fu/helper_delegation.rb
+END
+default_template_path.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9/trunk/vendor/plugins/resource_fu/lib/proto_cool/resource_fu/default_template_path.rb
+END

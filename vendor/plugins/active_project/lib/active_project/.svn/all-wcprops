@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/18/trunk/vendor/plugins/active_project/lib/active_project
+END
+ruby_ext.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9/trunk/vendor/plugins/active_project/lib/active_project/ruby_ext.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9/trunk/vendor/plugins/active_project/lib/active_project/version.rb
+END
+rails_ext.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/18/trunk/vendor/plugins/active_project/lib/active_project/rails_ext.rb
+END

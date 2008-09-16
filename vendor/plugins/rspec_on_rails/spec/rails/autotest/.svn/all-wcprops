@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5/trunk/vendor/plugins/rspec_on_rails/spec/rails/autotest
+END
+rails_rspec_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/vendor/plugins/rspec_on_rails/spec/rails/autotest/rails_rspec_spec.rb
+END
+mappings_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5/trunk/vendor/plugins/rspec_on_rails/spec/rails/autotest/mappings_spec.rb
+END

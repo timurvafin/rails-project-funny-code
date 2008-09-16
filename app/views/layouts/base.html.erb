@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <%= javascript_include_tag 'highlight/highlight' %>
+        <%= javascript_include_tag :all, :cache => 'all' %>
+
+        <%= stylesheet_link_tag 'blueprint/lib/reset', 'blueprint/lib/typography', 'blueprint/lib/grid', 'blueprint/lib/buttons', 'highlight', :cache => 'blueprint_screen' %>
+        <%= stylesheet_link_tag 'blueprint/print', :media => :print %>
+        <!--[if IE]><%= stylesheet_link_tag 'blueprint/ie' %><![endif]-->
+
+        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+
+        <title><%=l 'common.app_title' %> | <%= current_language %></title>
+
+        <%= yield :head %>
+    </head>
+    <body>
+        <div class="container">
+            <h1><%= link_to l('common.app_title'), localized_root_path %> | <%= language_switcher %> </h1>
+
+            <hr />
+
+            <%= render :partial => 'layouts/messages' %>
+
+            <%= yield %>
+        </div>
+    </body>
+</html>

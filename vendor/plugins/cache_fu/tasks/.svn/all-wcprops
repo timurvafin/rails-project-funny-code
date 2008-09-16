@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/tasks
+END
+memcached.rake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/tasks/memcached.rake
+END

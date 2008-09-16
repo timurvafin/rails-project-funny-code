@@ -1,0 +1,17 @@
+K 21
+piston:local-revision
+V 2
+17
+K 22
+piston:remote-revision
+V 4
+3066
+K 11
+piston:root
+V 45
+svn://rubyforge.org/var/svn/rspec/trunk/rspec
+K 11
+piston:uuid
+V 36
+410327ef-2207-0410-a325-f78bbcb22a5a
+END

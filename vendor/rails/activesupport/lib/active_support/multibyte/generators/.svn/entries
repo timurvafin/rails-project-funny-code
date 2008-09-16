@@ -1,0 +1,41 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/vendor/rails/activesupport/lib/active_support/multibyte/generators
+http://funny-code.googlecode.com/svn
+
+
+
+2007-11-27T22:20:10.769750Z
+11
+timurv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+generate_tables.rb
+file
+
+
+
+
+2008-09-16T15:10:08.000000Z
+4b323b79afc4f1d6e0f805f90d63c02e
+2007-11-27T22:20:10.769750Z
+11
+timurv
+has-props
+

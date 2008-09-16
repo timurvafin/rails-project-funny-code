@@ -1,0 +1,11 @@
+<h1><%=l 'code.recent_list' %></h1>
+
+<%= render_list_of_codes @codes %>
+
+<%= will_paginate @codes %>
+
+<hr />
+
+<h1><%=l 'code.add_new' %></h1>
+
+<%= render_new_code_form @code %>

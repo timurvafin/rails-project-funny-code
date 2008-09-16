@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/defaults
+END
+extensions.rb.default
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/defaults/extensions.rb.default
+END
+memcached.yml.default
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/defaults/memcached.yml.default
+END
+memcached_ctl.default
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9/trunk/vendor/plugins/cache_fu/defaults/memcached_ctl.default
+END

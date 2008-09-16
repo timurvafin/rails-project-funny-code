@@ -1,0 +1,5 @@
+# $Id$
+
+require 'active_project/version'
+require 'active_project/ruby_ext'
+require 'active_project/rails_ext'

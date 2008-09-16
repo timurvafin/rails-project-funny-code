@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9/trunk/vendor/plugins/active_project/spec/rails_ext
+END
+prototype_flash_messages_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9/trunk/vendor/plugins/active_project/spec/rails_ext/prototype_flash_messages_spec.rb
+END
+custom_error_messages_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9/trunk/vendor/plugins/active_project/spec/rails_ext/custom_error_messages_spec.rb
+END
+regexp_format_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9/trunk/vendor/plugins/active_project/spec/rails_ext/regexp_format_spec.rb
+END

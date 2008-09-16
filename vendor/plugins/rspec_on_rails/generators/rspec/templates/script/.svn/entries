@@ -1,0 +1,52 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/vendor/plugins/rspec_on_rails/generators/rspec/templates/script
+http://funny-code.googlecode.com/svn
+
+
+
+2007-11-27T20:38:02.261012Z
+5
+timurv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+spec_server
+file
+
+
+
+
+2008-09-16T15:09:06.000000Z
+309b816ab1ab6b6825a8f18ccbba2ded
+2007-11-27T20:38:02.261012Z
+5
+timurv
+
+spec
+file
+
+
+
+
+2008-09-16T15:09:06.000000Z
+3b01b40d35973243f354ede2a22a43fa
+2007-11-27T20:38:02.261012Z
+5
+timurv
+

@@ -1,0 +1,16 @@
+Index: lib/acts_as_cached/fragment_cache.rb
+===================================================================
+--- lib/acts_as_cached/fragment_cache.rb	(revision 8387)
++++ lib/acts_as_cached/fragment_cache.rb	(working copy)
+@@ -86,6 +86,11 @@
+         # override to pass along the ttl hash
+         def after(controller)
+           return if !@actions.include?(controller.action_name.intern) || controller.rendered_action_cache
++          
++          if callback = @actions[controller.action_name.intern][:after]
++            after.respond_to?(:call) ? after.call(controller) : controller.send(after)
++          end
++          
+           # 1.2.x compatibility
+           path = controller.respond_to?(:action_cache_path) ? controller.action_cache_path.path : ActionController::Caching::Actions::ActionCachePath.path_for(controller)
+           controller.write_fragment(path, controller.response.body, action_ttl(controller))

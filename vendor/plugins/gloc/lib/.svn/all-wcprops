@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10/trunk/vendor/plugins/gloc/lib
+END
+gloc-internal.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/vendor/plugins/gloc/lib/gloc-internal.rb
+END
+gloc-constants.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/vendor/plugins/gloc/lib/gloc-constants.rb
+END
+gloc-rails-text.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/vendor/plugins/gloc/lib/gloc-rails-text.rb
+END
+gloc-dev.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/vendor/plugins/gloc/lib/gloc-dev.rb
+END
+gloc-custom_types.rb
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/vendor/plugins/gloc/lib/gloc-custom_types.rb
+END
+gloc-ruby.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/vendor/plugins/gloc/lib/gloc-ruby.rb
+END
+gloc-helpers.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/vendor/plugins/gloc/lib/gloc-helpers.rb
+END
+gloc.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/vendor/plugins/gloc/lib/gloc.rb
+END
+gloc-version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/vendor/plugins/gloc/lib/gloc-version.rb
+END
+gloc-modes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/vendor/plugins/gloc/lib/gloc-modes.rb
+END
+gloc-rails.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/vendor/plugins/gloc/lib/gloc-rails.rb
+END

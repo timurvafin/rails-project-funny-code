@@ -1,0 +1,73 @@
+8
+
+dir
+19
+http://funny-code.googlecode.com/svn/trunk/vendor/plugins/active_project/lib/active_project
+http://funny-code.googlecode.com/svn
+
+
+
+2007-12-10T11:08:25.814152Z
+18
+timurv
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+3c5ad132-ee3f-0410-b7f4-09c8ee69ac4e
+
+ruby_ext
+dir
+
+ruby_ext.rb
+file
+
+
+
+
+2008-09-16T15:08:55.000000Z
+3f21b914f0e1e45346b64a7d7f989172
+2007-11-27T20:58:32.231014Z
+9
+timurv
+has-props
+
+version.rb
+file
+
+
+
+
+2008-09-16T15:08:55.000000Z
+13d27759774163bcb5f1cbbb8b9e58b1
+2007-11-27T20:58:32.231014Z
+9
+timurv
+has-props
+
+rails_ext
+dir
+
+rails_ext.rb
+file
+
+
+
+
+2008-09-16T15:08:55.000000Z
+3d54714bcd1c89cd07c0e8f9845f2d45
+2007-12-10T11:08:25.814152Z
+18
+timurv
+has-props
+

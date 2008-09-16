@@ -1,0 +1,41 @@
+<h2><%=l 'code.comments.add_new' %></h2>
+
+<%= render_code(@code) %>
+
+<hr />
+
+<%= localized_error_messages_for :comment %>
+
+<% form_for(:comment, :url => code_comments_path) do |f| %>
+    <p>
+        <b><%=l 'code.comments.name' %>:</b><br />
+        <%= f.text_field :name %>
+    </p>
+    <p>
+        <b><%=l 'code.comments.comment'%>:</b><br />
+        <%= f.text_area :comment %>
+    </p>
+    <p>
+        <%= f.submit l('code.comments.submit') %>
+    </p>
+<% end %>
+
+<hr />
+
+<% unless @comments.blank? %>
+
+    <h2><%=l 'code.comments.list' %></h2>
+
+    <% for comment in @comments do %>
+        <blockquote>
+            <%=h comment.comment%><br />
+        </blockquote><br />
+        - <em><%= comment.name %> (<%= comment.created_at.to_s %>)</em>
+        <hr />
+    <% end %>
+
+<% else %>
+
+    <h2><%=l 'code.comments.no_data' %></h2>
+
+<% end %>

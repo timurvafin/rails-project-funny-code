@@ -1,0 +1,13 @@
+Index: lib/gloc-rails.rb
+===================================================================
+--- lib/gloc-rails.rb	(revision 8387)
++++ lib/gloc-rails.rb	(working copy)
+@@ -197,7 +197,7 @@
+       else
+         msg= msg % args if args
+       end
+-      add_without_gloc(attribute, msg)
++      add_without_gloc(attribute, '^' + msg)
+     end
+     # Inherits the current language from the base record.
+     def current_language

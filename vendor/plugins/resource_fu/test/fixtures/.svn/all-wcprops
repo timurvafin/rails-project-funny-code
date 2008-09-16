@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9/trunk/vendor/plugins/resource_fu/test/fixtures
+END
+opaque_resource_names_test_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9/trunk/vendor/plugins/resource_fu/test/fixtures/opaque_resource_names_test_controller.rb
+END
+inferencing_test_helpers_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9/trunk/vendor/plugins/resource_fu/test/fixtures/inferencing_test_helpers_controller.rb
+END

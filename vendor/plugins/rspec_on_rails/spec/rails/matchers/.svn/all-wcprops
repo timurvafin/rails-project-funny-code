@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/18/trunk/vendor/plugins/rspec_on_rails/spec/rails/matchers
+END
+redirect_to_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/5/trunk/vendor/plugins/rspec_on_rails/spec/rails/matchers/redirect_to_spec.rb
+END
+errors_on_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5/trunk/vendor/plugins/rspec_on_rails/spec/rails/matchers/errors_on_spec.rb
+END
+description_generation_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/18/trunk/vendor/plugins/rspec_on_rails/spec/rails/matchers/description_generation_spec.rb
+END
+render_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/5/trunk/vendor/plugins/rspec_on_rails/spec/rails/matchers/render_spec.rb
+END
+assert_select_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5/trunk/vendor/plugins/rspec_on_rails/spec/rails/matchers/assert_select_spec.rb
+END

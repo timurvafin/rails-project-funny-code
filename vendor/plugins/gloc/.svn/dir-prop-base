@@ -1,0 +1,17 @@
+K 21
+piston:local-revision
+V 1
+5
+K 22
+piston:remote-revision
+V 3
+121
+K 11
+piston:root
+V 38
+svn://rubyforge.org/var/svn/gloc/trunk
+K 11
+piston:uuid
+V 36
+cac64705-2e12-0410-81ba-d1572097f6b9
+END
